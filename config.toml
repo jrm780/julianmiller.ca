@@ -1,0 +1,54 @@
+baseURL = "http://www.julianmiller.ca/"
+title = "Julian Miller"
+
+theme = "minimo-jrm"
+
+disqusShortname = "julianmiller-ca"
+googleAnalytics = ""
+Paginate = 5
+
+[params]
+# description = "Minimalist theme for Hugo"
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "Julian Miller"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Julian"
+
+[author.social]
+  linkedin = "julian-miller-b1b92564"
+  github = "jrm780"
+  soundcloud = "tresphunk"
+  stackoverflow = "1339615"
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
