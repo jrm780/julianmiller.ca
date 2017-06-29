@@ -6,4 +6,4 @@ menu: main
 weight: -170
 ---
 
-Previously of Ubisoft and SiriusXM projects, I'm a software developer with a B.Sc. Honours in Computer Science who has loved problem-solving and writing code for as long as he can remember. This site is here to share some of my work, thoughts, and experiences with the world.
+Formerly of Ubisoft and SiriusXM projects, I'm a software developer with a B.Sc. Honours in Computer Science who has loved problem-solving and writing code for as long as he can remember. This site is here to share some of my work, thoughts, and experiences with the world.
